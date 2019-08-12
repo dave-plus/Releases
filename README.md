@@ -1,2 +1,0 @@
-# releases
-Repository für Releases
